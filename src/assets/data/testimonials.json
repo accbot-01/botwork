@@ -1,0 +1,20 @@
+[
+  {
+    "videoId": "hsUEiFOh1UA",
+    "title": "Cloud Migration Success",
+    "quote": "Applied Cloud Computing transformed our infrastructure with seamless cloud migration. Their expertise and 24/7 support have been invaluable.",
+    "author": "Amit Bhatia",
+    "role": "CISO",
+    "company": "Religare Broking",
+    "image": "/images/testimonials/amit-bhatia.jpg"
+  },
+  {
+    "videoId": "QbjcP1JPYQU",
+    "title": "Digital Transformation Partner",
+    "quote": "ACC's digital transformation solutions helped us modernize our entire technology stack. Exceptional service and results.",
+    "author": "Abhijit Shah",
+    "role": "CTO",
+    "company": "Nippon India",
+    "image": "/images/testimonials/abhijit-shah.jpg"
+  }
+]

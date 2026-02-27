@@ -1,0 +1,20 @@
+[
+  {
+    "city": "Mumbai HQ",
+    "address": "Tower A, Peninsula Business Park, Lower Parel, Mumbai 400013",
+    "phone": "+91 22 6666 7777",
+    "email": "info@appliedcloudcomputing.com"
+  },
+  {
+    "city": "Mumbai",
+    "address": "BKC Business Center, Bandra Kurla Complex, Mumbai 400051",
+    "phone": "+91 22 8888 9999",
+    "email": "bkc@appliedcloudcomputing.com"
+  },
+  {
+    "city": "Pune",
+    "address": "EON Free Zone, Kharadi, Pune 411014",
+    "phone": "+91 20 1111 2222",
+    "email": "pune@appliedcloudcomputing.com"
+  }
+]

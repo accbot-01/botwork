@@ -1,0 +1,44 @@
+[
+  {
+    "id": "atlas-api-management",
+    "title": "Atlas API Management",
+    "description": "Robust platform for managing, securing, and monitoring APIs at scale.",
+    "features": ["API Gateway", "Security & Auth", "Analytics", "Developer Portal"],
+    "link": "/products/atlas-api-management"
+  },
+  {
+    "id": "cloudops-platform",
+    "title": "CloudOps Platform",
+    "description": "Unified platform for cloud operations, monitoring, and cost optimization.",
+    "features": ["Multi-Cloud", "Cost Analytics", "Automation", "Compliance"],
+    "link": "/products/cloudops-platform"
+  },
+  {
+    "id": "dataflow-etl",
+    "title": "DataFlow ETL",
+    "description": "Enterprise-grade data integration and ETL solution for complex workflows.",
+    "features": ["Visual Designer", "Real-time Sync", "Transformations", "Scheduling"],
+    "link": "/products/dataflow-etl"
+  },
+  {
+    "id": "securewatch",
+    "title": "SecureWatch",
+    "description": "AI-powered security monitoring and threat detection platform.",
+    "features": ["Threat Intel", "SIEM", "Compliance", "Incident Response"],
+    "link": "/products/securewatch"
+  },
+  {
+    "id": "devstudio",
+    "title": "DevStudio",
+    "description": "Collaborative development environment with built-in CI/CD pipelines.",
+    "features": ["Code Collaboration", "CI/CD", "Testing", "Deployment"],
+    "link": "/products/devstudio"
+  },
+  {
+    "id": "customer360",
+    "title": "Customer360",
+    "description": "Comprehensive customer data platform for unified customer insights.",
+    "features": ["Data Unification", "Segmentation", "Analytics", "Personalization"],
+    "link": "/products/customer360"
+  }
+]

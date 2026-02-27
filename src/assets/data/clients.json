@@ -1,0 +1,10 @@
+[
+  {"id": "ags", "name": "AGS", "logo": "/images/clients/ags.png", "industry": "financial-services"},
+  {"id": "religare", "name": "Religare Broking", "logo": "/images/clients/religare.png", "industry": "financial-services"},
+  {"id": "nippon", "name": "Nippon India", "logo": "/images/clients/nippon.png", "industry": "financial-services"},
+  {"id": "hdfc", "name": "HDFC Bank", "logo": "/images/clients/hdfc.png", "industry": "financial-services"},
+  {"id": "icici", "name": "ICICI Bank", "logo": "/images/clients/icici.png", "industry": "financial-services"},
+  {"id": "axis", "name": "Axis Bank", "logo": "/images/clients/axis.png", "industry": "financial-services"},
+  {"id": "kotak", "name": "Kotak Mahindra", "logo": "/images/clients/kotak.png", "industry": "financial-services"},
+  {"id": "sbi", "name": "SBI", "logo": "/images/clients/sbi.png", "industry": "financial-services"}
+]

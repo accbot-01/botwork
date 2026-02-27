@@ -1,0 +1,86 @@
+[
+  {
+    "id": "cloud-practice",
+    "title": "Cloud",
+    "icon": "cloud",
+    "description": "Strategic guidance, assessment, migration, and 24/7 managed services for seamless cloud transformation.",
+    "features": [
+      "Consulting & Assessment",
+      "Migration Services",
+      "DevOps & CI/CD",
+      "24/7 Managed Services",
+      "Cloud Automation"
+    ],
+    "link": "/services/cloud-practice"
+  },
+  {
+    "id": "digital-transformation",
+    "title": "Digital Transformation",
+    "icon": "digital",
+    "description": "End-to-end digital solutions to modernize your business operations and customer experiences.",
+    "features": [
+      "Process Automation",
+      "Legacy Modernization",
+      "Customer Experience",
+      "Data Analytics",
+      "IoT Solutions"
+    ],
+    "link": "/services/digital-transformation"
+  },
+  {
+    "id": "data-analytics",
+    "title": "Data & Analytics",
+    "icon": "analytics",
+    "description": "Unlock insights from your data with advanced analytics, BI, and machine learning solutions.",
+    "features": [
+      "Business Intelligence",
+      "Data Warehousing",
+      "Predictive Analytics",
+      "Real-time Dashboards",
+      "ML/AI Integration"
+    ],
+    "link": "/services/data-analytics"
+  },
+  {
+    "id": "security",
+    "title": "Security & Compliance",
+    "icon": "security",
+    "description": "Comprehensive security solutions to protect your infrastructure and ensure regulatory compliance.",
+    "features": [
+      "Security Assessment",
+      "Compliance Management",
+      "Identity & Access",
+      "Threat Detection",
+      "Incident Response"
+    ],
+    "link": "/services/security"
+  },
+  {
+    "id": "application-services",
+    "title": "Application Services",
+    "icon": "apps",
+    "description": "Custom application development, modernization, and maintenance services.",
+    "features": [
+      "Custom Development",
+      "App Modernization",
+      "Microservices",
+      "API Development",
+      "Maintenance & Support"
+    ],
+    "link": "/services/application-services"
+  },
+  {
+    "id": "managed-services",
+    "title": "Managed Services",
+    "icon": "support",
+    "description": "Comprehensive 24/7 infrastructure management and support for your cloud environment.",
+    "features": [
+      "24/7 Monitoring",
+      "Incident Management",
+      "Performance Optimization",
+      "Patch Management",
+      "Disaster Recovery"
+    ],
+    "link": "/services/managed-services"
+  }
+]
