@@ -19,6 +19,16 @@ Comprehensive requirements document covering:
 - Phased Delivery Timeline (4-5 months)
 - Cost Estimate ($50K-$75K)
 
+### [📘 Functional Specification Document (FSD)](./FSD.md)
+
+Detailed functional specifications including:
+- User Roles & Permissions
+- Use Cases & User Stories
+- Screen/UI Requirements
+- Data Models & Business Rules
+- Integration Requirements
+- Acceptance Criteria (testable conditions for each feature)
+
 ---
 
 ## 🎯 Project Overview
