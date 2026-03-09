@@ -1,7 +1,7 @@
 # BA/PM Productivity & Project Governance Platform
 
 **Project ID:** project_20260309_091827  
-**Status:** BRD Draft for Approval  
+**Status:** SOW Review  
 **Date:** March 9, 2026
 
 ---
@@ -28,6 +28,22 @@ Detailed functional specifications including:
 - Data Models & Business Rules
 - Integration Requirements
 - Acceptance Criteria (testable conditions for each feature)
+
+### [📑 Statement of Work (SOW)](./SOW.md)
+
+Comprehensive contract document including:
+- Project Overview & Objectives
+- Detailed Scope of Work (all 9 workflow areas)
+- Technical Approach Overview (high-level architecture)
+- Project Phases & Timeline (4-5 months, AI-assisted)
+- Deliverables per Phase with Acceptance Criteria
+- Team Structure & Responsibilities
+- Client Responsibilities & Assumptions
+- Cost Breakdown ($50K-$75K) with detailed breakdown
+- Payment Terms & Milestones (5 payment stages)
+- Change Management Process
+- Risk Management Strategy
+- Terms & Conditions
 
 ---
 
