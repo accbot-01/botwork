@@ -1,8 +1,8 @@
 {
   "project_id": "project_20260309_091827",
   "created_at": "2026-03-09T09:18:27.638588",
-  "stage": "BA_FSD_WORKING",
-  "active_agent": "ba-agent",
+  "stage": "ARCHITECT_SOW_WORKING",
+  "active_agent": "architect-agent",
   "interview_qa": [
     {
       "question": 1,
@@ -16,12 +16,18 @@
       "approved": true,
       "approved_at": "2026-03-09T09:56:00+05:30",
       "approved_by": "Adwait Rane"
+    },
+    "fsd": {
+      "approved": true,
+      "approved_at": "2026-03-09T12:04:00+05:30",
+      "approved_by": "Adwait Rane"
     }
   },
   "files": {
     "BRD": "/Users/accuser/.openclaw/workspace/projects/project_20260309_091827/BRD.md",
     "github_repo": "https://github.com/accbot-01/botwork",
-    "github_pages": "https://accbot-01.github.io/botwork/"
+    "github_pages": "https://accbot-01.github.io/botwork/",
+    "fsd": "/Users/accuser/.openclaw/workspace/projects/project_20260309_091827/FSD.md"
   },
   "current_question": 2,
   "updated_at": "2026-03-09T09:25:00.000000"
